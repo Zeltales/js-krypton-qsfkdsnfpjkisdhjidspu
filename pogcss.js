@@ -8,7 +8,7 @@
 /**
  * @popperjs/core v2.10.2 - MIT License
  */
-@charset "UTF-8";/*!
+/*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
  * Copyright 2011-2021 Twitter, Inc.
